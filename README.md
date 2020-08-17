@@ -142,6 +142,6 @@ We can also see that average fare for rides in the rural cities is about $11 and
     
     1. Look into ways to increase the number of drivers in rural and suburban areas to increase service to these communities.
    Increasing drivers might lead to higher revenues because these city types offer higher average fares per rider and driver.
-    1. After increasing the number of drivers in rural and suburban cities (or before!), target ads and/or increase information about the ride-share service to spread knowledge of the service and increase users. 
+    1. After increasing the number of drivers in rural and suburban cities (or before!), target ads and/or increase information about the ride-share service to spread knowledge of the service and drive usership. 
    It might also be a good idea to find out how many users in rural or suburban cities would actually take advantage of ride-shares.
-    1. Subsidize or offer discounts for users in rural and suburban cities. This could incentivize more users in these city types to use the ride-share, especially because average costs tend to be higher for these locations. 
+    1. Subsidize or offer discounts for users in rural and suburban cities. This could incentivize more people in these two city types to use the ride-share, especially because average costs tend to be higher for those areas.
