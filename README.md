@@ -133,7 +133,7 @@ We can also see that average fare for rides in the rural cities is about $11 and
   There also appears to be dips and increases around the same time for each of the city areas that might be worth looking into at some point. 
   These dips could be influenced by weather, school/work vacations or holidays.
 
-  ![Total fares by city types](analysis/PyBer_fare_summary.png)
+  ![Total fares by city types](analysis/PyBer_fare_summary.PNG)
 
 ## Summary
 - From the data, we can see that rural cities are the most under-served areas, followed by suburban cities, even though average fares are higher in these areas.
